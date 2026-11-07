@@ -4,27 +4,27 @@
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "TRUE",
-    "description": "Framework de observabilidad para recopilar métricas, logs y trazas en aplicaciones basadas en servicios."
+    "description": "Framework de observabilidad para recopilar métricas, logs y trazas en aplicaciones basadas en servicios"
   },
   {
     "name": "New Relic",
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "TRUE",
-    "description": "Plataforma APM para supervisar el rendimiento de aplicaciones, analizar trazas distribuidas y configurar alertas."
+    "description": "Plataforma APM para supervisar el rendimiento de aplicaciones, analizar trazas distribuidas y configurar alertas"
   },
   {
     "name": "Azure Monitor - Dynamic Thresholds",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Funcionalidad basada en aprendizaje automático que analiza patrones históricos de métricas y detecta desviaciones del comportamiento esperado."
+    "description": "Funcionalidad basada en aprendizaje automático que analiza patrones históricos de métricas y detecta desviaciones del comportamiento esperado"
   },
   {
     "name": "Umbrales estáticos",
     "ring": "Caution",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "Técnica convencional de monitoreo que utiliza límites definidos manualmente para generar alertas ante variaciones en las métricas."
+    "description": "Técnica convencional de monitoreo que utiliza límites definidos manualmente para generar alertas ante variaciones en las métricas"
   }
 ]
