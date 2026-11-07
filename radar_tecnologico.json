@@ -3,29 +3,29 @@
   {
     "name": "OpenTelemetry",
     "ring": "trial",
-    "quadrant": "tools",
+    "quadrant": "Tools",
     "isNew": "TRUE",
-    "description": "Observabilidad distribuida mediante métricas, logs y trazas. Puntuación multicriterio: 4.15/5."
+    "description": "Observabilidad distribuida mediante metricas, logs y trazas."
   },
   {
     "name": "New Relic",
     "ring": "trial",
-    "quadrant": "tools",
+    "quadrant": "Tools",
     "isNew": "TRUE",
-    "description": "Monitoreo del rendimiento de aplicaciones, APM y trazabilidad distribuida. Puntuación multicriterio: 4.10/5."
+    "description": "Monitoreo del rendimiento de aplicaciones y trazabilidad distribuida."
   },
   {
-    "name": "Azure Monitor - Dynamic Thresholds",
+    "name": "Azure Monitor Dynamic Thresholds",
     "ring": "assess",
-    "quadrant": "platforms",
+    "quadrant": "Platforms",
     "isNew": "TRUE",
-    "description": "Detección de anomalías mediante umbrales dinámicos basados en aprendizaje automático. Puntuación multicriterio: 3.45/5."
+    "description": "Deteccion de anomalias mediante umbrales dinamicos basados en aprendizaje automatico."
   },
   {
-    "name": "Umbrales estáticos",
+    "name": "Umbrales estaticos",
     "ring": "Caution",
-    "quadrant": "techniques",
+    "quadrant": "Techniques",
     "isNew": "TRUE",
-    "description": "Monitoreo convencional mediante límites definidos manualmente. Línea base de comparación. Puntuación multicriterio: 3.60/5."
+    "description": "Monitoreo convencional mediante limites definidos manualmente."
   }
 ]
