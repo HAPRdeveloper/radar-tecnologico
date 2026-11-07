@@ -1,33 +1,9 @@
-
-
 [
   {
     "name": "OpenTelemetry",
     "ring": "trial",
-    "quadrant": "Tools",
+    "quadrant": "tools",
     "isNew": "TRUE",
-    "description": "Observabilidad distribuida mediante metricas, logs y trazas."
-  },
-  {
-    "name": "New Relic",
-    "ring": "trial",
-    "quadrant": "Tools",
-    "isNew": "TRUE",
-    "description": "Monitoreo del rendimiento de aplicaciones y trazabilidad distribuida."
-  },
-  {
-    "name": "Azure Monitor Dynamic Thresholds",
-    "ring": "assess",
-    "quadrant": "Platforms",
-    "isNew": "TRUE",
-    "description": "Deteccion de anomalias mediante umbrales dinamicos basados en aprendizaje automatico."
-  },
-  {
-    "name": "Umbrales estaticos",
-    "ring": "Caution",
-    "quadrant": "Techniques",
-    "isNew": "TRUE",
-    "description": "Monitoreo convencional mediante limites definidos manualmente."
+    "description": "Framework de observabilidad para recopilar métricas, logs y trazas."
   }
 ]
-
