@@ -2,29 +2,29 @@
   {
     "name": "OpenTelemetry",
     "ring": "trial",
-    "quadrant": "tools",
+    "quadrant": "languages & frameworks",
     "isNew": "TRUE",
-    "description": "Framework de observabilidad para recopilar métricas, logs y trazas en aplicaciones basadas en servicios"
+    "description": "Framework de observabilidad de código abierto impulsado por la CNCF. Proporciona APIs, SDK y convenciones para instrumentar aplicaciones y recopilar, procesar y exportar métricas, logs y trazas distribuidas. Facilita el seguimiento de solicitudes entre servicios y la identificación de problemas de rendimiento. Requiere herramientas adicionales para almacenamiento, visualización y generación de alertas."
   },
   {
     "name": "New Relic",
     "ring": "trial",
     "quadrant": "tools",
     "isNew": "TRUE",
-    "description": "Plataforma APM para supervisar el rendimiento de aplicaciones, analizar trazas distribuidas y configurar alertas"
+    "description": "Plataforma comercial de observabilidad y monitoreo del rendimiento de aplicaciones (APM). Permite supervisar tiempos de respuesta, errores, transacciones, dependencias y trazas distribuidas. Ofrece paneles de visualización y mecanismos de alertamiento para facilitar la detección y el análisis de degradaciones en aplicaciones web empresariales."
   },
   {
     "name": "Azure Monitor - Dynamic Thresholds",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
-    "description": "Funcionalidad basada en aprendizaje automático que analiza patrones históricos de métricas y detecta desviaciones del comportamiento esperado"
+    "description": "Funcionalidad de Azure Monitor que utiliza aprendizaje automático para analizar patrones históricos de métricas y establecer umbrales dinámicos. Permite detectar desviaciones respecto al comportamiento esperado y generar alertas ante posibles anomalías de rendimiento. Su efectividad depende de la disponibilidad y calidad de los datos históricos y de una configuración adecuada."
   },
   {
     "name": "Umbrales estáticos",
     "ring": "Caution",
     "quadrant": "techniques",
     "isNew": "FALSE",
-    "description": "Técnica convencional de monitoreo que utiliza límites definidos manualmente para generar alertas ante variaciones en las métricas"
+    "description": "Técnica convencional de monitoreo basada en límites definidos manualmente para métricas como tiempo de respuesta, uso de CPU, memoria y tasa de errores. Genera alertas cuando los valores superan las condiciones establecidas. Sirve como línea base de comparación, aunque requiere ajustes periódicos y puede generar falsos positivos o no detectar anomalías que ocurren dentro de los límites configurados."
   }
 ]
