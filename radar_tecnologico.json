@@ -1,33 +1,31 @@
 
-{
-  "entries": [
-    {
-      "name": "OpenTelemetry",
-      "ring": "Trial",
-      "quadrant": "Tools",
-      "isNew": true,
-      "description": "Observabilidad distribuida mediante métricas, logs y trazas. Puntuación: 4.15/5. Se recomienda realizar una prueba controlada para validar la instrumentación y la integración con la aplicación empresarial."
-    },
-    {
-      "name": "New Relic",
-      "ring": "Trial",
-      "quadrant": "Tools",
-      "isNew": true,
-      "description": "Plataforma APM para monitoreo del rendimiento y trazabilidad distribuida. Puntuación: 4.10/5. Se recomienda probar su integración, muestreo de trazas, seguridad y costos."
-    },
-    {
-      "name": "Azure Monitor - Dynamic Thresholds",
-      "ring": "Assess",
-      "quadrant": "Platforms",
-      "isNew": true,
-      "description": "Detección de anomalías mediante umbrales dinámicos basados en aprendizaje automático. Puntuación: 3.45/5. Se recomienda evaluar los requisitos de datos históricos, conectividad y confiabilidad de las alertas."
-    },
-    {
-      "name": "Umbrales estáticos",
-      "ring": "Hold",
-      "quadrant": "Techniques",
-      "isNew": true,
-      "description": "Monitoreo convencional mediante límites definidos manualmente. Puntuación: 3.60/5. Se mantiene como línea base de comparación, no como estrategia única de monitoreo."
-    }
-  ]
-}
+[
+  {
+    "name": "OpenTelemetry",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Observabilidad distribuida mediante métricas, logs y trazas. Puntuación multicriterio: 4.15/5."
+  },
+  {
+    "name": "New Relic",
+    "ring": "trial",
+    "quadrant": "tools",
+    "isNew": "TRUE",
+    "description": "Monitoreo del rendimiento de aplicaciones, APM y trazabilidad distribuida. Puntuación multicriterio: 4.10/5."
+  },
+  {
+    "name": "Azure Monitor - Dynamic Thresholds",
+    "ring": "assess",
+    "quadrant": "platforms",
+    "isNew": "TRUE",
+    "description": "Detección de anomalías mediante umbrales dinámicos basados en aprendizaje automático. Puntuación multicriterio: 3.45/5."
+  },
+  {
+    "name": "Umbrales estáticos",
+    "ring": "Caution",
+    "quadrant": "techniques",
+    "isNew": "TRUE",
+    "description": "Monitoreo convencional mediante límites definidos manualmente. Línea base de comparación. Puntuación multicriterio: 3.60/5."
+  }
+]
